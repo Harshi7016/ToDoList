@@ -1,0 +1,15 @@
+/* .App {
+  margin: 1rem;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #222222;
+  width: 99%;
+  height: 99%;
+  box-sizing: border-box;
+
+  
+} */
+body,
+html {
+  height: 100%;
+  background-image: url('https://lenduletmagazin.hu/wp-content/uploads/2016/08/Rvtflzh.jpg');
+}
